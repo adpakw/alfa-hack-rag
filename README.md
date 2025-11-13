@@ -21,16 +21,11 @@ Alfa Bank Hackathon
 |-|-|-|-|-|-|
 | 32 | ai-forever/FRIDA | 512 | 1536 | Обрезка текста до максимальной длины | Косинусное расстояние |
 | 28.4 | deepvk/USER2-base | 8192 | 768 | Обрезка текста до максимальной длины | Косинусное расстояние |
+| 27.2 | ai-forever/ru-en-RoSBERTa | 512 | 1024 | Обрезка текста до максимальной длины | Косинусное расстояние |
 | 25.5 | deepvk/USER2-small | 8192 | 384 | Обрезка текста до максимальной длины | Косинусное расстояние |
 | 19.8 | deepvk/USER-base | ... | ... | Обрезка текста до максимальной длины | Косинусное расстояние |
 | 19.3 | intfloat/multilingual-e5-large-instruct | ... | ... | Обрезка текста до максимальной длины | Косинусное расстояние |
 | 9.6 | ai-sage/Giga-Embeddings-instruct | 4096 | 2048 | Обрезка текста до максимальной длины | Косинусное расстояние |
-
-1. deepvk/USER2-base (28.4)
-2. deepvk/USER2-small (25.5)
-3. deepvk/USER-base (19.8)
-4. intfloat/multilingual-e5-large-instruct (19.3)
-5. ai-sage/Giga-Embeddings-instruct (9.6)
 
 usefull links:
 - https://habr.com/ru/articles/871226/
